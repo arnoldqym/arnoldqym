@@ -35,10 +35,10 @@
         <table border="0" cellpadding="0" cellspacing="10">
           <tr>
             <td>
-              <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnoldqym&theme=nord_bright&exclude=C%2B%2B" alt="Repos per Language" />
+              <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnoldqym&theme=nord_bright" alt="Repos per Language" />
             </td>
             <td>
-              <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arnoldqym&theme=default&exclude=C%2B%2B" alt="Most Commit Language" />
+              <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arnoldqym&theme=default" alt="Most Commit Language" />
             </td>
           </tr>
         </table>
