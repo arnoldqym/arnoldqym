@@ -6,25 +6,32 @@
     <!-- Row 1: Header / Social Connect Bar -->
     <tr>
       <td align="center" style="padding: 15px; border-bottom: 1px solid #e1e4e6;">
-        <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+        <a href="https://linkedin.com/in/arnold-kimani" target="_blank">
           <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
         </a>
-        <a href="https://x.com/YOUR_USERNAME" target="_blank">
+        <a href="https://x.com/arnoldqym" target="_blank">
           <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter" />
         </a>
-        <a href="https://discord.gg/YOUR_INVITE" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="Discord" />
+        <a href="https://arnold-kimani.vercel.app" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=121212&logoColor=white&style=for-the-badge" height="25" alt="Website" />
         </a>
-        <a href="https://twitch.tv/YOUR_USERNAME" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="25" alt="Twitch" />
+        <a href="https://instagram.com/qymdesigns" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
         </a>
-        <a href="https://dev.to/YOUR_USERNAME" target="_blank">
+        <a href="https://dev.to/arnoldqym" target="_blank">
           <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" alt="Dev.to" />
         </a>
       </td>
     </tr>
+    <!-- Row 2: GitHub Activity Streak Stats -->
     <tr>
-      <td align="center" style="padding: 25px 0;">
+      <td align="center" style="padding: 10px 0 25px 0;">
+        <img src="https://streak-stats.demolab.com/?user=arnoldqym&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="195" alt="streak graph" />
+      </td>
+    </tr>
+    <!-- Row 3: Dynamic GitHub Analytics Cards -->
+    <tr>
+      <td align="center" style="padding: 25px 0 10px 0;">
         <table border="0" cellpadding="0" cellspacing="10">
           <tr>
             <td>
@@ -37,7 +44,7 @@
         </table>
       </td>
     </tr>
-    <!-- Row 3: Core Stack Section (Bento Container) -->
+    <!-- Row 4: Core Stack Section (Bento Container) -->
     <tr>
       <td align="center" style="padding: 20px; background-color: rgba(0,0,0,0.02); border-radius: 8px;">
         <h3>🛠️ Core Stack & Technologies</h3>
