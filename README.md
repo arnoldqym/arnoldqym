@@ -26,7 +26,7 @@
     <!-- Row 2: GitHub Activity Streak Stats -->
     <tr>
       <td align="center" style="padding: 10px 0 25px 0;">
-        <img src="https://streak-stats.demolab.com/?user=arnoldqym&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="195" alt="streak graph" />
+        <img src="https://streak-stats.demolab.com/?user=arnoldqym&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="195" alt="streak graph" />
       </td>
     </tr>
     <!-- Row 3: Dynamic GitHub Analytics Cards -->
