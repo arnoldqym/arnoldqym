@@ -24,11 +24,11 @@
       </td>
     </tr>
     <!-- Row 2: GitHub Activity Streak Stats -->
-    <tr>
+    <!-- <tr>
       <td align="center" style="padding: 10px 0 25px 0;">
         <img src="https://streak-stats.demolab.com/?user=arnoldqym&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="195" alt="streak graph" />
       </td>
-    </tr>
+    </tr> -->
     <!-- Row 3: Dynamic GitHub Analytics Cards -->
     <tr>
       <td align="center" style="padding: 25px 0 10px 0;">
